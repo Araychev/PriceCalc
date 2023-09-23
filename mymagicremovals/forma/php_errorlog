@@ -1,0 +1,1 @@
+[30-Mar-2020 15:10:33 Etc/UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/mymagicc/public_html/mymagicremovals/mymagicremovals_lib/PHPMailer_5.2.0/PHPMailerAutoload.php on line 45

@@ -1,0 +1,5 @@
+# robots.txt generated at http://www.mcanerin.com
+User-agent: *
+Disallow:
+Disallow: https://mymagiccleaners.co.uk/
+Sitemap: https://mymagiccleaners.co.uk/

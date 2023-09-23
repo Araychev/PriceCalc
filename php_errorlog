@@ -1,0 +1,2 @@
+[10-Mar-2020 10:06:37 Etc/UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/mymagicc/public_html/PHPMailer_5.2.0/PHPMailerAutoload.php on line 45
+[28-May-2020 08:41:31 Etc/UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/mymagicc/public_html/PHPMailer_5.2.0/PHPMailerAutoload.php on line 45

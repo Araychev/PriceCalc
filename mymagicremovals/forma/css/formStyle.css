@@ -1,0 +1,60 @@
+#calcForm label{
+  display: inline-block;
+  width: 160px;
+  text-align: left;
+}
+
+#detailForm label {
+  display: inline-block;
+  width: 180px;
+  text-align: left;
+}
+
+#calcForm input[type=submit], 
+#detailForm input[type=button], 
+#detailForm input[type=submit]{
+	width: 140px;
+	margin: 3px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+#calcForm input[type=text], 
+#calcForm input[type=date], 
+#calcForm input[type=email],
+#detailForm input[type=text],
+#detailForm input[type=email]
+{
+	margin: 3px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+	border-radius:5px;
+	width: 180px;
+	height: 35px;
+}
+
+.small-ed{
+	width: 100px;
+}
+
+
+#calcForm select{
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+	border-radius:5px;
+	margin: 3px;
+	width: 180px;
+	height: 35px;
+}
+
+#calcForm select:required, 
+#calcForm input[type="text"]:required,
+#calcForm input[type="date"]:required,
+#calcForm input[type="email"]:required,
+#detailForm select:required, 
+#detailForm input[type="text"]:required,
+#detailForm input[type="date"]:required,
+#detailForm input[type="email"]:required{
+	border-color: initial;
+}
