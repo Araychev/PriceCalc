@@ -222,19 +222,19 @@
                         </div>
                         <div id="navbar" class="navbar-collapse collapse">
                             <ul class="nav navbar-nav navbar-right">
-                                 <!-- osnovno-menu -->
+                                 <!-- main-menu -->
 								 
-								<li><a title="" href="index.html">HOME</a></li>
+								 <li><a title="" href="https://carpetrefresh.co.uk/">HOME</a></li>
 								<li class="dropdown normalmenu"><a href="#" data-toggle="dropdown" class="dropdown-toggle">SERVICES<span class="dropcar fa fa-angle-down"></span></a>
-                                    <ul class="dropdown-menu" role="menu">
-                                        <li><a title="" href="Professional-carpet-cleaning-London.html">Professional Carpet cleaning London</a></li>
-                                        <li><a title="" href="Professional-curtain-cleaning-London.html">Professional Curtain cleaning London</a></li>
-                                        <li><a title="" href="Professional-mattress-cleaning-London.html">Professional Mattress Cleaning London</a></li>
-                                        <li><a title="" href="Professional-rug-cleaning-London.html">Professional Rug Cleaning London</li>
-                                        <li><a title="" href="Professional-upholstery-cleaning-London.html">Professional Upholstery cleaning London</a></li>
-										<li><a title="" href="Professional-commercial-cleaning-London.html">Professional Commercial cleaning London</a></li>
-										<li><a title="" href="<span class="footer_copy_text"><a href="http://mymagicremovals.co.uk/">Removal services London</a></li>
-                                    </ul>
+								<ul class="dropdown-menu" role="menu">
+									<li><a title="" href="https://carpetrefresh.co.uk/carpet-cleaning-2/">Carpet Cleaning</a></li>
+									<li><a title="" href="https://carpetrefresh.co.uk/upholstery-cleaning/">Upholstery Cleaning</a></li>
+									
+									<li><a title="" href="https://carpetrefresh.co.uk/rug-cleaning/"> Rug Cleaning</a></li>
+									<li><a title="" href="https://carpetrefresh.co.uk/mattress-cleaning/">Mattress Cleaning</li>
+									</ul>								
+				<li><a title="" href="https://carpetrefresh.co.uk/areas-we-cover/">Areas</a></li>								
+						<li><a title="" href="https://carpetrefresh.co.uk/blog-carpet-cleaning/">Blog</a></li>
 								</li>
 								<li><a title="" href="Calculator-for-carpet-cleaning.html">PRICES</a></li>
 								<li class="dropdown normalmenu"><a href="#" data-toggle="dropdown" class="dropdown-toggle">AREAS<span class="dropcar fa fa-angle-down"></span></a>
