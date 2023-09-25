@@ -236,7 +236,7 @@
 			<section id="team" class="section-w clearfix">
 				<div class="container">
 					<div class="section-title text-left">
-						<label class="text-m"><a><font size="6" color="red">Call now</font><img/> <a href="tel:+447504072020"><img src="http://hercu-plast.com/how-to-be-liked.gif" /></a></label>
+						<label class="text-m"><a><font size="6" color="red">Call now</font><img/> <a href="tel:+447504072020"></a></label>
 						<h4>
 							<div>
 								<label>Order number:</label> 
