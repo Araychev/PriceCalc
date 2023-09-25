@@ -15,7 +15,7 @@
 		<meta name="description" content="When you need professional carpet cleaning in London, please refer to My Magic Cleaners. It's the only way to ensure that you get the best cleaning at affordable prices all over London. My Magic Cleaners is your first and last stop when you need a perfect carpet and upholstery cleaning in London. We clean greasy spots, traces of mud or deep penetrated stains. We are confident in the success of any job that we take because we already have many satisfied customers throughout the city. Six steps are required, to have your carpets clean and nice looking. First we always arrive on time and equipped with the necessary machinery and eco carpet cleaning products. Then our technicians will determine the extent of contamination and stains. Carpets are treated in advance with the vacuum cleaner to remove larger particles and accumulated dust. Spots are pretreated using special stain removal agents appropriate to the type of stain. Our team uses the power of steam to extract deep penetrated dirt from the base of the flooring. Before we leave, you will be able to see the results achieved and to share your opinion. If you are wondering why are we different from other carpet and upholstery companies in London, here you will be able to familiarize yourself with the 5 of them. Your health is important to us therefore we used eco detergents that are completely safe for you and your family. We use modern equipment for carpet cleaning. Your carpets will be cleaned by reliable and experienced carpet cleaners London. You can count on us for cleaning after hours and even on weekends without any extra service cost. We guarantee that your carpet will be cleaned according to what you’ve paid for. You can keep the cleanliness of your carpets for the years to come by purchasing the Scotch Guard – that’s innovative technology that prevents accidentally spilled liquids from absorbing deep into the fibers which respectively makes the cleaning process much easier and the excellent condition of your carpets maintained for longer.">
 		<meta name="author" content="Elisaveta Raycheva">
 
-		<title>My Magic Cleaners | Request form </title>
+		<title>Carpet Refresh | Order form </title>
 
 		<!-- Favicons
 		================================================== -->
@@ -192,23 +192,26 @@
                         </div>
                         <div id="navbar" class="navbar-collapse collapse">
                             <ul class="nav navbar-nav navbar-right">
-                                 <!-- osnovno-menu -->
+                                 <!-- main-menu -->
 								 
-						<li><a title="" href="index.html">HOME</a></li>
-									<li class="dropdown normalmenu"><a href="#" data-toggle="dropdown" class="dropdown-toggle">SERVICES<span class="dropcar fa fa-angle-down"></span></a>
-                                    <ul class="dropdown-menu" role="menu">
-                                        <li><a title="" href="Professional-carpet-cleaning.html">Carpet cleaning</a></li>
-                                        <li><a title="" href="Holiday-home-cleaning.html">Holiday home cleaning</a></li>
-                                        
-                                        <li><a title="" href="Professional-mattress-cleaning-London.html"> Mattress Cleaning</a></li>
-                                        <li><a title="" href="Professional-rug-cleaning-London.html">Rug Cleaning</li>
-                                        <li><a title="" href="Professional-upholstery-cleaning-London.html">Upholstery cleaning</a></li>
-					<li><a title="" href="domestic-cleaning.html">Domestic cleaning</a></li>
-					<li><a title="" href="end-of-tenancy-cleaning.html">End of tenancy cleaning</a></li>
-					<li><a title="" href="oven-cleaning.html">Oven cleaning</a></li>
-                                        </ul>								
-					<li><a title="" href="Calculator-for-carpet-cleaning.html">PRICES</a></li>								
-					<li><a title="" href="Contact-carpet-cleaning-London.html">CONTACT</a></li>
+								 <li><a title="" href="https://carpetrefresh.co.uk/">HOME</a></li>
+								<li class="dropdown normalmenu"><a href="#" data-toggle="dropdown" class="dropdown-toggle">SERVICES<span class="dropcar fa fa-angle-down"></span></a>
+								<ul class="dropdown-menu" role="menu">
+									<li><a title="" href="https://carpetrefresh.co.uk/carpet-cleaning-2/">Carpet Cleaning</a></li>
+									<li><a title="" href="https://carpetrefresh.co.uk/upholstery-cleaning/">Upholstery Cleaning</a></li>
+									
+									<li><a title="" href="https://carpetrefresh.co.uk/rug-cleaning/"> Rug Cleaning</a></li>
+									<li><a title="" href="https://carpetrefresh.co.uk/mattress-cleaning/">Mattress Cleaning</li>
+									</ul>								
+				<li><a title="" href="https://carpetrefresh.co.uk/areas-we-cover/">Areas</a></li>								
+						<li><a title="" href="https://carpetrefresh.co.uk/blog-carpet-cleaning/">Blog</a></li>
+								</li>
+								
+
+							   <li>
+                                    <div class="social-icons">
+                                        <span><a class="border-radius" data-rel="tooltip" data-toggle="tooltip" data-trigger="hover" data-placement="bottom" data-title="Facebook" href="https://www.facebook.com/mymagiccleaners/"target="_blank"><i class="fa fa-facebook"
+										></i></a></span>
 									
 									
 									<ul class="dropdown-menu" role="menu">
@@ -218,24 +221,8 @@
                                         
 										<li>
 
-							   <li>
-                                    <div class="social-icons">
-                                        <span><a class="border-radius" data-rel="tooltip" data-toggle="tooltip" data-trigger="hover" data-placement="bottom" data-title="Facebook" href="https://www.facebook.com/mymagiccleaners/"target="_blank"><i class="fa fa-facebook"
-										></i></a></span>
-                                     
-                                
-                                        
-										<li>
-                                    <div class="social-icons">
-                                        <span><a class="border-radius" data-rel="tooltip" data-toggle="tooltip" data-trigger="hover" data-placement="bottom" data-title="Googleplus" href="https://plus.google.com/100215989223668377421/posts"target="_blank"><img src="https://www.mymagiccleaners.co.uk/images/socialgoogleplus.png" id="Image1" alt="Carpet London" border="0" style="width:30px;height:27px;"></div>
-
-										</i></a></span>
-										 <li>
-                                    <div class="social-icons">
-                                        <span><a class="border-radius" data-rel="tooltip" data-toggle="tooltip" data-trigger="hover" data-placement="bottom" data-title="Twetter" href="https://twitter.com/cleaners_magic"target="_blank"><img src="https://www.mymagiccleaners.co.uk/images/tw.png" id="Image1" alt="Carpet and upholstery cleaning London" border="0" style="width:30px;height:27px;"></div>
-
-										</i></a></span>							
-											<!-- osnovno-menu -->
+							  					
+											<!-- main-menu -->
 									</div><!-- end social icons -->
                                 </li>
                             </ul>
@@ -344,33 +331,8 @@
 									}
 								}
 							?>
-							<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-								<!-- Specify a Buy Now button. -->
-								<input type="hidden" name="cmd" value="_xclick">
-								 
-								<!-- Identify your business so that you can collect the payments. -->
-								<input type="hidden" name="business" value="mymagicservices@yahoo.com">
-								  
-								<!-- Specify details about the item that buyers will purchase. -->
-								<input type="hidden" name="item_name" value="My Magic Cleaners Order">
-								<input type="hidden" name="item_number" value="<?php echo $orderNumber;?>">
-								<input type="hidden" name="amount" value="<?php echo $deposit;?>">
-								<input type="hidden" name="currency_code" value="GBP">
-								<input type="hidden" name="return" value="https://mymagiccleaners.co.uk/">
-							  
-								<!--<input type="hidden" name="hosted_button_id" value="5W7CWHH4APCYQ">-->
-								<!-- Display the payment button. -->
-								<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-								<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-							</form>
-							<br> If you prefer you can make direct bank transfer into our bank account. 
-							<br> As a payment reference write your order number.
-							<br>
-							<br> Barclays Business Bank
-							<br> CEBT LTD
-							<br> Sort code: 20-91-79
-							<br> Account No: 63010732
-						</h4>
+							
+						
 						<h5>~ We will contact you shortly to arrange date and time suitable for you.</h5>
 			  
 							
@@ -380,87 +342,13 @@
 
 			<!-- end section -->
 
-			<section class="section-parallax" style="background-image: url('https://www.mymagiccleaners.co.uk/demos/prices-carpet-cleaning.jpg');" data-stellar-background-ratio="" data-stellar-vertical-offset="">
-				<div class="container">
-					<div class="section-wrapper">
-						<div class="row">
-							<div class="col-lg-12 col-lg-offset-0">
-								<div id="testimonial" class="text-center clearfix">
-									<div class="owl-item">
-										<p class="lead">Carpet cleaning London</p>
-									</div><!-- end owl -->
-								</div><!-- end testimonials -->
-							</div><!-- end col -->
-						</div><!-- end row -->
-					</div><!-- end section-wrapper -->
-				</div><!-- end page_header -->
-			</section><!-- end section -->
+			
 
 			<footer class="footer">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-6 col-sm-6 col-xs-12">
-							<div class="widget">
-								<div class="about-widget">
-									
-									<p><h4>We are My Magic <u><strong>Cleaners London</u></strong> and we are the best in cleaning of your home or office.<br>Trust us and call us now!</h4></p>
-									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2478.018604596427!2d-0.35305729999999996!3d51.6045477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761498b9759e6b%3A0x740f7994bb3dead1!2zNjUgQ291cnRlbmF5IEF2ZSwgSGFycm93LCBHcmVhdGVyIExvbmRvbiBIQTMsINCS0LXQu9C40LrQvtCx0YDQuNGC0LDQvdC40Y8!5e0!3m2!1sbg!2sbg!4v1436789346073" width="330" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
-									<div class="social-icons">
-										
-									</div><!-- end social icons -->
-								</div><!-- end about-widget -->
-							</div><!-- end widget -->
-						</div><!-- end col -->
-
-						<div class="col-md-3 col-sm-6 col-xs-12">
-							<div class="widget">
-								<div class="section-title">
-									<h3>Carpet cleaning London</h3>
-								</div><!-- title -->
-								<ul>
-									<li><a href="index.html"><h4>Home</h4></a></li>
-									<li><a href="Carpet-cleaning-London.html"><h4>Services</h4></a></li>
-									<li><a href="Calculator-for-carpet-cleaning.html"><h4>Prices</h4></a></li>
-									<li><a href="Carpet-and-upholstery-cleaning-London.html"><h4>Areas</h4></a></li>
-									<li><a href="Contact-carpet-cleaning-London.html"><h4>Contact</h4></a></li>
-									<li><a href="https://www.mymagiccleaners.co.uk/mymagicremovals/forma/index-quote.html"target="_blank"><h4>Quote</h4></a></li>
-								</ul>
-								 
-							</div><!-- end widget -->
-						</div><!-- end col -->
-
-						<div class="col-md-3 col-sm-6 col-xs-12">
-							<div class="widget">
-								<div class="section-title">
-									<h3>Contact</h3>
-								</div><!-- title -->
-
-								<div class="contact-widget">
-									<div class="box">
-										<p><h4>Address:<br>65 Courtenay avenue<br>Harrow Middlesex<br>HA3 6 LJ </h4></p>
-									</div>
-									<hr>
-									<div class="box">
-										<p><h4>Phone:</h4></p>
-										<p><h4>+447504072020<br>www.mymagiccleaners.co.uk</h4></p>
-										<p><h4>E-mail:<br>info@mymagiccleaners.co.uk</h4></p>
-									</div>
-								</div><!-- end contact-widget -->
-							</div><!-- end widget -->
-						</div><!-- end col -->
-					</div><!-- end row -->
-				</div><!-- end container -->
+				
 			</footer><!-- end footer -->
 			
-			<div class="copyrights">
-				<div class="container">
-					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-						<p><li><a href="http://webbianik.com/">Web design Kozarev&Panov 2015</a></li></p>
-					</div><!-- end col-lg-4 -->
-				</div><!-- end container -->
-			</div><!-- end copyrights -->
-
-			<div class="dmtop">Scroll to Top</div>
+			
 		</div><!-- end wrapper -->
 	</body>
 </html>
