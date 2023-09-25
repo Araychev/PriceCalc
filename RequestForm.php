@@ -15,7 +15,7 @@
 		<meta name="description" content="When you need professional carpet cleaning in London, please refer to My Magic Cleaners. It's the only way to ensure that you get the best cleaning at affordable prices all over London. My Magic Cleaners is your first and last stop when you need a perfect carpet and upholstery cleaning in London. We clean greasy spots, traces of mud or deep penetrated stains. We are confident in the success of any job that we take because we already have many satisfied customers throughout the city. Six steps are required, to have your carpets clean and nice looking. First we always arrive on time and equipped with the necessary machinery and eco carpet cleaning products. Then our technicians will determine the extent of contamination and stains. Carpets are treated in advance with the vacuum cleaner to remove larger particles and accumulated dust. Spots are pretreated using special stain removal agents appropriate to the type of stain. Our team uses the power of steam to extract deep penetrated dirt from the base of the flooring. Before we leave, you will be able to see the results achieved and to share your opinion. If you are wondering why are we different from other carpet and upholstery companies in London, here you will be able to familiarize yourself with the 5 of them. Your health is important to us therefore we used eco detergents that are completely safe for you and your family. We use modern equipment for carpet cleaning. Your carpets will be cleaned by reliable and experienced carpet cleaners London. You can count on us for cleaning after hours and even on weekends without any extra service cost. We guarantee that your carpet will be cleaned according to what you’ve paid for. You can keep the cleanliness of your carpets for the years to come by purchasing the Scotch Guard – that’s innovative technology that prevents accidentally spilled liquids from absorbing deep into the fibers which respectively makes the cleaning process much easier and the excellent condition of your carpets maintained for longer.">
 		<meta name="author" content="Elisaveta Raycheva">
 
-		<title>My Magic Cleaners | Request form </title>
+		<title>Carpet Refresh | Request form </title>
 
 		<!-- Favicons
 		================================================== -->
@@ -236,44 +236,14 @@
 				<li><a title="" href="https://carpetrefresh.co.uk/areas-we-cover/">Areas</a></li>								
 						<li><a title="" href="https://carpetrefresh.co.uk/blog-carpet-cleaning/">Blog</a></li>
 								</li>
-								<li><a title="" href="Calculator-for-carpet-cleaning.html">PRICES</a></li>
-								<li class="dropdown normalmenu"><a href="#" data-toggle="dropdown" class="dropdown-toggle">AREAS<span class="dropcar fa fa-angle-down"></span></a>
-                                    <ul class="dropdown-menu" role="menu">
-									
-                                        <li><a title="" href="Carpet-cleaning-London.html">Carpet cleaning London</a></li>                                    	
-										<li><a title="" href="Carpet-cleaning-Chelsea.html">Carpet cleaning Chelsea</a></li>
-										<li><a title="" href="Carpet-cleaning-Fulham.html">Carpet cleaning Fulham</a></li>
-										<li><a title="" href="Carpet-cleaning-Kensington.html">Carpet cleaning Kensington</a></li>
-										<li><a title="" href="Carpet-cleaning-Richmond.html">Carpet Cleaning Richmond</a></li>
-									</ul>
-								</li>
-								<li><a title="" href="Contact-carpet-cleaning-London.html">CONTACT</a></li>
-                                <li>
-                                    <div class="">
-                                        <span><a class="" "LinkedIn" href="Calculator-for-carpet-cleaning.html?fref=ts"target="_blank"><img src="https://www.mymagiccleaners.co.uk/demos/book_now33.png" id="" alt="carpet cleaning London" border="" style=""></div>
-
-										</i></a></span>
-                                        
-										<li>
+								
 
 							   <li>
                                     <div class="social-icons">
                                         <span><a class="border-radius" data-rel="tooltip" data-toggle="tooltip" data-trigger="hover" data-placement="bottom" data-title="Facebook" href="https://www.facebook.com/mymagiccleaners/"target="_blank"><i class="fa fa-facebook"
 										></i></a></span>
-                                     
-                                
-                                        
-										<li>
-                                    <div class="social-icons">
-                                        <span><a class="border-radius" data-rel="tooltip" data-toggle="tooltip" data-trigger="hover" data-placement="bottom" data-title="Googleplus" href="https://plus.google.com/100215989223668377421/posts"target="_blank"><img src="https://www.mymagiccleaners.co.uk/images/socialgoogleplus.png" id="Image1" alt="Carpet London" border="0" style="width:30px;height:27px;"></div>
-
-										</i></a></span>
-										 <li>
-                                    <div class="social-icons">
-                                        <span><a class="border-radius" data-rel="tooltip" data-toggle="tooltip" data-trigger="hover" data-placement="bottom" data-title="Twetter" href="https://twitter.com/cleaners_magic"target="_blank"><img src="https://www.mymagiccleaners.co.uk/images/tw.png" id="Image1" alt="Carpet and upholstery cleaning London" border="0" style="width:30px;height:27px;"></div>
-
-										</i></a></span>							
-											<!-- osnovno-menu -->
+                						
+											<!-- main-menu -->
 									</div><!-- end social icons -->
                                 </li>
                             </ul>
